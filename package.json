@@ -1,0 +1,23 @@
+{
+  "name": "mern-stack-unit-test",
+  "version": "1.0.0",
+  "description": "**MERN 스택 단위테스트 및 정리하여 보관**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wati2/mern-stack-unit-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wati2/mern-stack-unit-test/issues"
+  },
+  "homepage": "https://github.com/wati2/mern-stack-unit-test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
