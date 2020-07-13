@@ -2,7 +2,7 @@ const express = require('express')
 const router = express.Router()
 
 const requestTime = function (req, res, next) {
-    req.requestTime = Date()
+    req.requestTime = new Date()
     console.log(req.requestTime)
     console.log(req.requestTime.toString())
     next()
