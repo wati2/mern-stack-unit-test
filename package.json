@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/wati2/mern-stack-unit-test#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
